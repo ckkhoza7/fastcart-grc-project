@@ -9,6 +9,7 @@ This project models a cloud-based retail organization that processes customer tr
 The purpose of this project is to identify cybersecurity risks, evaluate their impact, and map them to industry-standard security frameworks.
 
 Company Profile
+
 FastCart Inc is an e-commerce company that sells consumer goods such as clothing, electronics, and household items through an online platform.
 
  Project Walkthrough START HERE
