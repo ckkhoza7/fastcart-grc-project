@@ -1,6 +1,7 @@
 FastCart Inc – GRC Cybersecurity Risk Assessment Project
 
 Overview
+
 FastCart Inc is a simulated mid-size e-commerce company designed to demonstrate Governance, Risk, and Compliance (GRC) cybersecurity principles in a real-world environment.
 
 This project models a cloud-based retail organization that processes customer transactions, stores sensitive data, and operates web-based services.
