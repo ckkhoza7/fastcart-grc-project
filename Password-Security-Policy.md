@@ -9,7 +9,7 @@
 - Password Requirements  
   - Passwords must be at least 12 characters in length  
   - Password reuse across multiple platforms is prohibited  
-  - Repeating numbers (e.g. 123) are prohibited in the use of passwords  
+  - No sequential numbers (e.g. 123) are prohibited in the use of passwords  
   - Passwords must include uppercase, lowercase, numbers, and special characters  
 - Password Management  
   - Passwords must not be shared between users  
