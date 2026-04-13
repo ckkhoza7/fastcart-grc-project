@@ -11,7 +11,7 @@
 1. Detection and Identification (Detect)  
    1. Security alerts from monitoring tools (e.g. Splunk) must be reviewed promptly  
    2. Potential incidents must be alerted to IT/security team immediately  
-   3. Indicators of Compromise (IoC) must be documents  
+   3. Indicators of Compromise (IoC) must be documented  
 2. Containment (Respond)  
    1. Compromised systems must be isolated from the environment upon detection  
    2. Compromised accounts must be disabled immediately  
