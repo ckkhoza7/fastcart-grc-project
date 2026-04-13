@@ -11,10 +11,10 @@ Company Profile
 FastCart Inc is an e-commerce company that sells consumer goods such as clothing, electronics, and household items through an online platform.
 
  Project Walkthrough
-1. [Company Overview](company-overview.md)
-2. [Risk Assessment](GRCriskassessment.md)
-3. [Password Policy](password-policy.md)
-4. [Incident Response Plan](incident-response-plan.md)
+1. [Company Overview](GRCCompanyOverview.md)
+3. [Risk Assessment](GRCRiskAssessment.md)
+4. [Password Policy](PasswordSecurityPolicy.md)
+5. [Incident Response Plan](IncidentResponsePolicy.md)
 
 Company Details
 - Size: 80 employees (8 IT staff)
