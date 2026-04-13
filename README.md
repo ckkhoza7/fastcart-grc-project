@@ -110,14 +110,5 @@ Skills Demonstrated
 - Documentation for cybersecurity governance
 
 
-
-  Key Findings
-- Lack of MFA presents a high risk of account compromise
-- Weak password policies increase exposure to credential-based attacks
-- Limited monitoring reduces the ability to detect threats in real time
-- Absence of endpoint protection increases malware risk
-- Insufficient access controls increase insider threat risk
-
-
 This is a simulated environment designed for educational and portfolio purposes.
 
