@@ -12,7 +12,7 @@ FastCart Inc is an e-commerce company that sells consumer goods such as clothing
 
  Project Walkthrough
 1. [Company Overview](company-overview.md)
-2. [Risk Assessment](risk-assessment.md)
+2. [Risk Assessment](GRCriskassessment.md)
 3. [Password Policy](password-policy.md)
 4. [Incident Response Plan](incident-response-plan.md)
 
