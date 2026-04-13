@@ -11,7 +11,7 @@ Company Profile
 FastCart Inc is an e-commerce company that sells consumer goods such as clothing, electronics, and household items through an online platform.
 
  Project Walkthrough
-1. [GRC Company Overview](GRCCompanyOverview.md)
+1. [GRC Company Overview](GRC Company Overview.md)
 3. [GRC Risk Assessment](GRCRiskAssessment.md)
 4. [Password Security Policy](PasswordSecurityPolicy.md)
 5. [Incident Response Policy](IncidentResponsePolicy.md)
