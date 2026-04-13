@@ -10,7 +10,7 @@ The purpose of this project is to identify cybersecurity risks, evaluate their i
 Company Profile
 FastCart Inc is an e-commerce company that sells consumer goods such as clothing, electronics, and household items through an online platform.
 
- Project Walkthrough
+ Project Walkthrough START HERE
 1. [GRC Company Overview](GRC-Company-Overview.md)
 3. [GRC Risk Assessment](GRC-Risk-Assessment.md)
 4. [Password Security Policy](Password-Security-Policy.md)
