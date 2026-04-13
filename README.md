@@ -10,6 +10,12 @@ The purpose of this project is to identify cybersecurity risks, evaluate their i
 Company Profile
 FastCart Inc is an e-commerce company that sells consumer goods such as clothing, electronics, and household items through an online platform.
 
+ Project Walkthrough
+1. [Company Overview](company-overview.md)
+2. [Risk Assessment](risk-assessment.md)
+3. [Password Policy](password-policy.md)
+4. [Incident Response Plan](incident-response-plan.md)
+
 Company Details
 - Size: 80 employees (8 IT staff)
 - Industry: E-commerce / Retail
